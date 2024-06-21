@@ -15,10 +15,10 @@ This project implements an ensemble deep reinforcement learning (DRL) strategy f
 - FinRL
 - Libraries: pandas, numpy, matplotlib, gym, yfinance, plotly
 
-Results
+## Results
 The ensemble strategy demonstrated superior risk-adjusted returns compared to the Dow Jones Industrial Average over the backtesting period.
 
-Future Work
+## Future Work
 - Incorporate more advanced feature engineering techniques
 - Experiment with different DRL algorithms and hyperparameters
 - Expand to a larger universe of stocks and asset classes
